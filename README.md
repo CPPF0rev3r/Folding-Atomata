@@ -1,5 +1,5 @@
-#Folding Atomata
-###Alternative protein viewer for Folding@home
+# Folding Atomata
+### Alternative protein viewer for Folding@home
 
 View the biological machines that run the body! Folding Atomata is a third-party simulation and protein viewer for [Folding@home](http://folding.stanford.edu/home/), a distributed computing project from Stanford University. Atomata aims to be a drop-in replacement for FAHViewer, the official viewer for F@h.
 
